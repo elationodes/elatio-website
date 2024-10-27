@@ -9,7 +9,7 @@ Elatio platform is a  tool for supporting cosmos-based projects and.
 We support around XX networks and the number is constantly growing.
 
 ## ElatioNodes services and community
-- [Official Website](https://elatio.io)
+- [Official Website](https://elationodes.io)
 - [Twitter](https://twitter.com/elationodes)
 - [Telegram](https://t.me/elationodes)
 - [Elatio Wiki](https://github.com/elationodes/elationodes/wiki)
